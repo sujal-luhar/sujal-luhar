@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![My Skills](https://skillicons.dev/icons?i=django,python,c,cpp,js,html,css)](https://skillicons.dev)
-[![My Socials](https://skillicons.dev/icons?i=x,instagram,linkedin)](https://skillicons.dev)
+[![My Socials](https://skillicons.dev/icons?i=twitter,instagram,linkedin)](https://skillicons.dev)
