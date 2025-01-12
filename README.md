@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![My Skills](https://skillicons.dev/icons?i=django,python,c,cpp,js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,python,c,cpp,js,html,css)](https://skillicons.dev)
+[![My Socials](https://skillicons.dev/icons?i=x,instagram,linkedin)](https://skillicons.dev)
