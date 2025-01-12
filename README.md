@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![My Skills](https://skillicons.dev/icons?i=django,python,java,c,cpp,js,html,css)]
+[![My Skills](https://skillicons.dev/icons?i=django,python,jupyter,java,bash,linux,ubuntu,sql,c,cpp,node,react,mongodb,js,html,css)]()
 
 ### My Socials
 [![My Socials](https://skillicons.dev/icons?i=twitter)](https://x.com/SujalLuhar)
