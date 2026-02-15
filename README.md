@@ -20,3 +20,6 @@ Here are some ideas to get you started:
 ### My Socials
 [![My Socials](https://skillicons.dev/icons?i=twitter)](https://x.com/SujalLuhar)
 [![My Socials](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sujal-luhar/)
+
+
+[!Portfolio Optimizer](https://portfolio-optimizer-by-sujal.streamlit.app/)
