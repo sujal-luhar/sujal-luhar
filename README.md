@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 [![My Socials](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sujal-luhar/)
 
 
-[!Portfolio Optimizer](https://portfolio-optimizer-by-sujal.streamlit.app/)
+[Portfolio Optimizer](https://portfolio-optimizer-by-sujal.streamlit.app/)
