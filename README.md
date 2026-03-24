@@ -15,17 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Technologies I am confident working with
+## Technologies I am confident working with
 [![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,express,react,vite,postgres,mongodb,nginx,nextjs,tailwind)]()
 
-## Foundational Knowledge in DevOps
+### Foundational Knowledge in DevOps
 [![My Skills](https://skillicons.dev/icons?i=aws,cloudflare,docker,nginx)]()
 
-## Other general tools in my stack
+### Other general tools in my stack
 [![My Skills](https://skillicons.dev/icons?i=bash,linux,ubuntu,git,github,postman)]()
 
 
-### Technologies I have used in the past!
+
+
+## Technologies I have used in the past!
 [![My Skills](https://skillicons.dev/icons?i=django,fastapi,python,sklearn,tensorflow,pytorch,anaconda,java,bash,linux,ubuntu,windows,git,github,notion,postgresql,c,cpp,nodejs,react,mongodb,js,html,css)]()
 
 ### My Socials
